@@ -34,7 +34,7 @@ Here are those 3 notebooks and the python file.
 - HowToBreakIntoTheField.ipynb
 - Salary.ipynb
 - Salary_ML.py — helper functions
-- 
+  
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
