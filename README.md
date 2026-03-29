@@ -30,10 +30,13 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 Here are those 3 notebooks and the python file.
-- BootcampStats.ipynb
-- HowToBreakIntoTheField.ipynb
-- Salary.ipynb
-- Salary_ML.py
+BootcampStats.ipynb: An analysis of bootcamp graduates in terms of job placement and outcomes.
+
+HowToBreakIntoTheField.ipynb: An analysis of how individuals can break into software development roles.
+
+Salary.ipynb: An analysis of variables related to salary and job characteristics.
+
+Salary_ML.py: A Python script that builds a Linear Regression model to predict salary.
   
 ## Results<a name="results"></a>
 
