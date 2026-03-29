@@ -33,7 +33,7 @@ Here are those 3 notebooks and the python file.
 - BootcampStats.ipynb
 - HowToBreakIntoTheField.ipynb
 - Salary.ipynb
-- Salary_ML.py — helper functions
+- Salary_ML.py
   
 ## Results<a name="results"></a>
 
